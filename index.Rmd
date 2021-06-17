@@ -7,3 +7,5 @@ site: bookdown::bookdown_site
 
 # Welcome
 
+
+This is a three-day workshop from June 28 to June 30 (4 PM GMT, 11 AM EDT, 8 AM PDT on all days). This workshop aims to expose early-career scientists to coding and basic statistical analysis in R while fostering collaborations and knowledge sharing among participants. Specifically, we hope this workshop will enable young scholars to build expertise in R and make them competitive in global scholarships.
